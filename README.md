@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hahajing88
-- 👀 I’m interested in machine learning,deep learnign, AI Algorithm,product mangement and data analysis etc.
-- 🌱 I’m currently learning knowledge graphs and complex systems
+- 👀 I’m interested in machine learning,deep learning, AI Algorithm,product mangement and data analysis etc.
+- 🌱 I’m currently learning knowledge graphs and complex systems.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 hahajing0619@163.com
